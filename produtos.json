@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "Teclado Mecânico",
+        "quantidade": 15
+    },
+    {
+        "id": 2,
+        "nome": "Mouse Logitech",
+        "quantidade": 30
+    },
+    {
+        "id": 3,
+        "nome": "Monitor 24 360hz",
+        "quantidade": 10
+    }
+]
